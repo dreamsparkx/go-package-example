@@ -111,7 +111,6 @@ Before Go module got introduced in Go 1.11, every project needed to be created i
 Let’s initialize a Go module by typing the following commands:
 
 ```
-$ cd packer
 $ go mod init example.com
 ```
 
